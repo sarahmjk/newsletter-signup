@@ -1,5 +1,5 @@
 # newsletter-signup
-newsletter using jQuery, heroku, js, html, css, bootstrap
+newsletter using jQuery, heroku, js, html, css, bootstrap, node
 
 it is connected to mailchimp so I can see the input you enter
 
